@@ -1,5 +1,5 @@
 const debug = true;
 
-export {debug};
+export { debug };
 
 export {Dot} from '@/Dot';
